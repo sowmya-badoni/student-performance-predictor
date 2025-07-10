@@ -6,7 +6,7 @@ A machine learning web app built using **Streamlit** and **scikit-learn** to pre
 - 📅 Attendance Percentage  
 - 🧪 Internal Marks  
 
-> ⚡ Trained on a sample dataset and styled with custom CSS + a textured vintage background!
+> ⚡ Trained on a sample dataset and styled with custom CSS
 
 ---
 
