@@ -26,7 +26,7 @@ A machine learning web app built using **Streamlit** and **scikit-learn** to pre
 ![image](https://github.com/user-attachments/assets/42863134-30e5-4bdd-8796-56c01d7b006a)
 
 
-> The final app features a **vintage paper texture**, serif fonts, and a soft color palette to give a calm, old-school academic vibe 🕰️
+> The app allows users to input academic performance indicators and receive a prediction on whether the student is likely to pass or fail, based on a trained machine learning model.
 
 ---
 
