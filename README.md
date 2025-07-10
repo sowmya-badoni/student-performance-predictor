@@ -17,7 +17,7 @@ A machine learning web app built using **Streamlit** and **scikit-learn** to pre
   - Number of hours studied
   - Attendance %
   - Internal test marks
-- The model predicts **Pass / Fail** with a themed UI.
+- The model predicts **Pass / Fail**
 
 ---
 
