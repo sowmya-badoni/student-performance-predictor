@@ -1,6 +1,6 @@
 # 🎓 Student Performance Predictor
 
-A vintage-themed machine learning web app built using **Streamlit** and **scikit-learn** to predict whether a student will pass or fail based on:
+A machine learning web app built using **Streamlit** and **scikit-learn** to predict whether a student will pass or fail based on:
 
 - 📚 Hours Studied  
 - 📅 Attendance Percentage  
